@@ -12,6 +12,7 @@ import com.example.continent.controller.ContinentController;
  * @author sahil.md
  *
  */
+
 @SpringBootApplication
 public class ContinentApplication {
 	private static final Logger logger = LoggerFactory.getLogger(ContinentApplication.class);
