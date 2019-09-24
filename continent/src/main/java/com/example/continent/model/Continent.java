@@ -10,7 +10,6 @@ public class Continent {
 	private String continentName;
     private Set<Country> setOfCountries;
 	
-
 	public Set<Country> getSetOfCountries() {
 		return setOfCountries;
 	}
